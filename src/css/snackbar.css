@@ -1,0 +1,16 @@
+.back{
+  display: block;
+  margin-bottom: 40px;
+}
+
+
+.form{
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.form label:first-child{
+  display: flex;  
+  flex-direction: column;
+  gap: 10px;
+}
